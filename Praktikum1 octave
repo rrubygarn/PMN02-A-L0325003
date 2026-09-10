@@ -1,0 +1,35 @@
+# Created by Octave 11.3.0, Thu Sep 10 23:32:27 2026 UTC
+# name: grade
+# type: sq_string
+# elements: 1
+# length: 1
+A
+
+
+# name: nama
+# type: sq_string
+# elements: 1
+# length: 4
+Inka
+
+
+# name: nilai1
+# type: scalar
+100
+
+
+# name: nilai2
+# type: scalar
+96
+
+
+# name: nilai3
+# type: scalar
+89
+
+
+# name: rata
+# type: scalar
+95
+
+
